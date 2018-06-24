@@ -1,6 +1,8 @@
 # HEXO THEME
 ## ADD TAGS AND CATEGORIES FOR CACTUS
 
+[Take a look!](https://fectung.github.io)
+
 _Fork from [Cactus](https://github.com/probberechts/hexo-theme-cactus)_
 
 - Add `TAGS` and `Categories` for homepage's NAV  
